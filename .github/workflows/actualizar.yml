@@ -1,0 +1,27 @@
+name: Actualizar datos
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6,20 * * *" # dos veces al día (UTC)
+permissions:
+  contents: write
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node actualizar.mjs
+      - name: Guardar cambios
+        run: |
+          if [ -n "$(git status --porcelain datos.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add datos.json
+            git commit -m "Actualizar datos desde fcf.cat"
+            git push
+          else
+            echo "Sin cambios que guardar."
+          fi
