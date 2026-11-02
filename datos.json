@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01",
+ "actualizado": "2026-11-02",
  "hasta_jornada": 7,
  "partidos": [
   {"j": 1, "local": "FF Vilanova", "visitante": "AEM", "casa": true, "inicio": "2026-09-20T10:45", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": [8, 0]},
@@ -50,5 +50,56 @@
   {"equipo": "Marc Bartra", "pj": 7, "g": 0, "e": 2, "p": 5, "gf": 4, "gc": 28, "pts": 2},
   {"equipo": "La Floresta", "pj": 7, "g": 0, "e": 0, "p": 7, "gf": 6, "gc": 18, "pts": 0},
   {"equipo": "AEM", "pj": 7, "g": 0, "e": 0, "p": 7, "gf": 1, "gc": 23, "pts": 0}
- ]
+ ],
+ "equipo2": {
+  "nombre": "Base Vilanova",
+  "titulo": "Base Vilanova B",
+  "categoria": "Infantil 2ª División S14 · Grup 24",
+  "actualizado": "2026-11-02",
+  "hasta_jornada": 5,
+  "partidos": [
+   {"j": 1, "local": "Base Vilanova", "visitante": "Riudebitlles", "casa": true, "inicio": "2026-10-29T18:45", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": [13, 1]},
+   {"j": 2, "local": "Base Olerdola", "visitante": "Base Vilanova", "casa": false, "inicio": "2026-10-10T10:45", "campo": "CAMP DE FUTBOL MPAL. ELS PINS", "nota": "", "resultado": [1, 7]},
+   {"j": 3, "local": "Base Vilanova", "visitante": "Cubelles", "casa": true, "inicio": "2026-10-18T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": [0, 8]},
+   {"j": 4, "local": "Vilafranca B", "visitante": "Base Vilanova", "casa": false, "inicio": "2026-10-24T17:30", "campo": "CAMP DE FUTBOL MPAL. ESPIRALL", "nota": "", "resultado": [2, 2]},
+   {"j": 5, "local": "Base Vilanova", "visitante": "Mas Catarro", "casa": true, "inicio": "2026-11-01T12:30", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": [2, 1]},
+   {"j": 6, "local": "Subirats", "visitante": "Base Vilanova", "casa": false, "inicio": "2026-11-08T16:15", "campo": "CAMP DE FUTBOL MPAL. DE SANT PAU D´ORDAL", "nota": "", "resultado": null},
+   {"j": 7, "local": "Base Vilanova", "visitante": "FF Vilanova C", "casa": true, "inicio": "2026-11-15T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
+   {"j": 8, "local": "Les Cabanyes", "visitante": "Base Vilanova", "casa": false, "inicio": "2026-11-21T10:30", "campo": "CAMP DE FUTBOL MPAL. DE LES CABANYES", "nota": "", "resultado": null},
+   {"j": 9, "local": "Base Vilanova", "visitante": "Gelida", "casa": true, "inicio": "2026-11-29T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
+   {"j": 10, "local": "Sant Sadurní", "visitante": "Base Vilanova", "casa": false, "inicio": "2026-12-12T10:30", "campo": "CAMP DE FUTBOL MPAL. LA TRIOLA", "nota": "", "resultado": null},
+   {"j": 11, "local": "Base Vilanova", "visitante": "La Granada", "casa": true, "inicio": "2026-12-20T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
+   {"j": 12, "local": "Base Vilanova", "visitante": "Fàtima B", "casa": true, "inicio": "2027-01-10T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
+   {"j": 13, "local": "Igualada D", "visitante": "Base Vilanova", "casa": false, "inicio": "2027-01-17T13:30", "campo": "CAMP DE FUTBOL CEM LES COMES 2 Camps", "nota": "", "resultado": null},
+   {"j": 14, "local": "Riudebitlles", "visitante": "Base Vilanova", "casa": false, "inicio": "2027-01-23T12:00", "campo": "CAMP DE FUTBOL MPAL. DE SANT PERE DE RIUDEBITLLES", "nota": "", "resultado": null},
+   {"j": 15, "local": "Base Vilanova", "visitante": "Base Olerdola", "casa": true, "inicio": "2027-01-31T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
+   {"j": 16, "local": "Cubelles", "visitante": "Base Vilanova", "casa": false, "inicio": "2027-02-14T11:40", "campo": "CAMP DE FUTBOL MPAL. JOSEP PONS I VENTURA", "nota": "", "resultado": null},
+   {"j": 17, "local": "Base Vilanova", "visitante": "Vilafranca B", "casa": true, "inicio": "2027-02-21T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
+   {"j": 18, "local": "Mas Catarro", "visitante": "Base Vilanova", "casa": false, "inicio": "2027-02-28T15:00", "campo": "CAMP DE FUTBOL MPAL. DE SANTA MARGARIDA I ELS MONJOS", "nota": "", "resultado": null},
+   {"j": 19, "local": "Base Vilanova", "visitante": "Subirats", "casa": true, "inicio": "2027-03-07T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
+   {"j": 20, "local": "FF Vilanova C", "visitante": "Base Vilanova", "casa": false, "inicio": "2027-03-14T09:00", "campo": "CAMP DE FUTBOL MPAL. ASSOCIACIÓ ALUMNES OBRERS (1) Annex 1", "nota": "", "resultado": null},
+   {"j": 21, "local": "Base Vilanova", "visitante": "Les Cabanyes", "casa": true, "inicio": "2027-03-21T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
+   {"j": 22, "local": "Gelida", "visitante": "Base Vilanova", "casa": false, "inicio": "2027-04-04T09:30", "campo": "CAMP DE FUTBOL MPAL. DE GELIDA", "nota": "", "resultado": null},
+   {"j": 23, "local": "Base Vilanova", "visitante": "Sant Sadurní", "casa": true, "inicio": "2027-04-11T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
+   {"j": 24, "local": "La Granada", "visitante": "Base Vilanova", "casa": false, "inicio": "2027-04-17T16:00", "campo": "CAMP DE FUTBOL MPAL. JOSEP FERRÉ FARRIOL", "nota": "", "resultado": null},
+   {"j": 25, "local": "Fàtima B", "visitante": "Base Vilanova", "casa": false, "inicio": "2027-04-24T12:00", "campo": "CAMP DE FUTBOL MPAL. CAN MASARNAU", "nota": "", "resultado": null},
+   {"j": 26, "local": "Base Vilanova", "visitante": "Igualada D", "casa": true, "inicio": "2027-05-02T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null}
+  ],
+  "clasificacion": [
+   {"equipo": "Cubelles", "pj": 4, "g": 4, "e": 0, "p": 0, "gf": 34, "gc": 0, "pts": 12},
+   {"equipo": "Sant Sadurní", "pj": 5, "g": 4, "e": 0, "p": 1, "gf": 34, "gc": 7, "pts": 12},
+   {"equipo": "Les Cabanyes", "pj": 5, "g": 4, "e": 0, "p": 1, "gf": 28, "gc": 11, "pts": 12},
+   {"equipo": "Vilafranca B", "pj": 4, "g": 3, "e": 1, "p": 0, "gf": 28, "gc": 3, "pts": 10},
+   {"equipo": "Base Vilanova", "pj": 5, "g": 3, "e": 1, "p": 1, "gf": 24, "gc": 13, "pts": 10},
+   {"equipo": "FF Vilanova C", "pj": 5, "g": 3, "e": 0, "p": 2, "gf": 29, "gc": 12, "pts": 9},
+   {"equipo": "Subirats", "pj": 5, "g": 3, "e": 0, "p": 2, "gf": 18, "gc": 13, "pts": 9},
+   {"equipo": "Mas Catarro", "pj": 5, "g": 2, "e": 0, "p": 3, "gf": 9, "gc": 16, "pts": 6},
+   {"equipo": "Fàtima B", "pj": 4, "g": 2, "e": 0, "p": 2, "gf": 15, "gc": 24, "pts": 6},
+   {"equipo": "La Granada", "pj": 4, "g": 1, "e": 0, "p": 3, "gf": 9, "gc": 19, "pts": 3},
+   {"equipo": "Base Olerdola", "pj": 4, "g": 1, "e": 0, "p": 3, "gf": 4, "gc": 30, "pts": 3},
+   {"equipo": "Gelida", "pj": 4, "g": 0, "e": 0, "p": 4, "gf": 7, "gc": 28, "pts": 0},
+   {"equipo": "Igualada D", "pj": 4, "g": 0, "e": 0, "p": 4, "gf": 7, "gc": 33, "pts": 0},
+   {"equipo": "Riudebitlles", "pj": 4, "g": 0, "e": 0, "p": 4, "gf": 1, "gc": 38, "pts": 0}
+  ]
+ }
 }
