@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02",
+ "actualizado": "2026-11-04",
  "hasta_jornada": 7,
  "partidos": [
   {"j": 1, "local": "FF Vilanova", "visitante": "AEM", "casa": true, "inicio": "2026-09-20T10:45", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": [8, 0]},
@@ -55,7 +55,7 @@
   "nombre": "Base Vilanova",
   "titulo": "Base Vilanova B",
   "categoria": "Infantil 2ª División S14 · Grup 24",
-  "actualizado": "2026-11-02",
+  "actualizado": "2026-11-04",
   "hasta_jornada": 5,
   "partidos": [
    {"j": 1, "local": "Base Vilanova", "visitante": "Riudebitlles", "casa": true, "inicio": "2026-10-29T18:45", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": [13, 1]},
@@ -64,7 +64,7 @@
    {"j": 4, "local": "Vilafranca B", "visitante": "Base Vilanova", "casa": false, "inicio": "2026-10-24T17:30", "campo": "CAMP DE FUTBOL MPAL. ESPIRALL", "nota": "", "resultado": [2, 2]},
    {"j": 5, "local": "Base Vilanova", "visitante": "Mas Catarro", "casa": true, "inicio": "2026-11-01T12:30", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": [2, 1]},
    {"j": 6, "local": "Subirats", "visitante": "Base Vilanova", "casa": false, "inicio": "2026-11-08T16:15", "campo": "CAMP DE FUTBOL MPAL. DE SANT PAU D´ORDAL", "nota": "", "resultado": null},
-   {"j": 7, "local": "Base Vilanova", "visitante": "FF Vilanova C", "casa": true, "inicio": "2026-11-15T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
+   {"j": 7, "local": "Base Vilanova", "visitante": "FF Vilanova C", "casa": true, "inicio": "2026-11-14T09:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
    {"j": 8, "local": "Les Cabanyes", "visitante": "Base Vilanova", "casa": false, "inicio": "2026-11-21T10:30", "campo": "CAMP DE FUTBOL MPAL. DE LES CABANYES", "nota": "", "resultado": null},
    {"j": 9, "local": "Base Vilanova", "visitante": "Gelida", "casa": true, "inicio": "2026-11-29T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null},
    {"j": 10, "local": "Sant Sadurní", "visitante": "Base Vilanova", "casa": false, "inicio": "2026-12-12T10:30", "campo": "CAMP DE FUTBOL MPAL. LA TRIOLA", "nota": "", "resultado": null},
@@ -86,16 +86,16 @@
    {"j": 26, "local": "Base Vilanova", "visitante": "Igualada D", "casa": true, "inicio": "2027-05-02T14:00", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": null}
   ],
   "clasificacion": [
+   {"equipo": "Vilafranca B", "pj": 5, "g": 4, "e": 1, "p": 0, "gf": 31, "gc": 4, "pts": 13},
    {"equipo": "Cubelles", "pj": 4, "g": 4, "e": 0, "p": 0, "gf": 34, "gc": 0, "pts": 12},
    {"equipo": "Sant Sadurní", "pj": 5, "g": 4, "e": 0, "p": 1, "gf": 34, "gc": 7, "pts": 12},
    {"equipo": "Les Cabanyes", "pj": 5, "g": 4, "e": 0, "p": 1, "gf": 28, "gc": 11, "pts": 12},
-   {"equipo": "Vilafranca B", "pj": 4, "g": 3, "e": 1, "p": 0, "gf": 28, "gc": 3, "pts": 10},
    {"equipo": "Base Vilanova", "pj": 5, "g": 3, "e": 1, "p": 1, "gf": 24, "gc": 13, "pts": 10},
    {"equipo": "FF Vilanova C", "pj": 5, "g": 3, "e": 0, "p": 2, "gf": 29, "gc": 12, "pts": 9},
    {"equipo": "Subirats", "pj": 5, "g": 3, "e": 0, "p": 2, "gf": 18, "gc": 13, "pts": 9},
    {"equipo": "Mas Catarro", "pj": 5, "g": 2, "e": 0, "p": 3, "gf": 9, "gc": 16, "pts": 6},
    {"equipo": "Fàtima B", "pj": 4, "g": 2, "e": 0, "p": 2, "gf": 15, "gc": 24, "pts": 6},
-   {"equipo": "La Granada", "pj": 4, "g": 1, "e": 0, "p": 3, "gf": 9, "gc": 19, "pts": 3},
+   {"equipo": "La Granada", "pj": 5, "g": 1, "e": 0, "p": 4, "gf": 10, "gc": 22, "pts": 3},
    {"equipo": "Base Olerdola", "pj": 4, "g": 1, "e": 0, "p": 3, "gf": 4, "gc": 30, "pts": 3},
    {"equipo": "Gelida", "pj": 4, "g": 0, "e": 0, "p": 4, "gf": 7, "gc": 28, "pts": 0},
    {"equipo": "Igualada D", "pj": 4, "g": 0, "e": 0, "p": 4, "gf": 7, "gc": 33, "pts": 0},
