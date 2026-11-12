@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09",
+ "actualizado": "2026-11-12",
  "hasta_jornada": 8,
  "partidos": [
   {"j": 1, "local": "FF Vilanova", "visitante": "AEM", "casa": true, "inicio": "2026-09-20T10:45", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": [8, 0]},
@@ -55,7 +55,7 @@
   "nombre": "Base Vilanova",
   "titulo": "Base Vilanova B",
   "categoria": "Infantil 2ª División S14 · Grup 24",
-  "actualizado": "2026-11-09",
+  "actualizado": "2026-11-12",
   "hasta_jornada": 6,
   "partidos": [
    {"j": 1, "local": "Base Vilanova", "visitante": "Riudebitlles", "casa": true, "inicio": "2026-10-29T18:45", "campo": "ESTADI MPAL. ASSOCIACIÓ ALUMNES OBRERS, Vilanova i la Geltrú", "nota": "", "resultado": [13, 1]},
@@ -96,8 +96,8 @@
    {"equipo": "La Granada", "pj": 6, "g": 2, "e": 0, "p": 4, "gf": 13, "gc": 22, "pts": 6},
    {"equipo": "Mas Catarro", "pj": 6, "g": 2, "e": 0, "p": 4, "gf": 10, "gc": 19, "pts": 6},
    {"equipo": "Fàtima B", "pj": 5, "g": 2, "e": 0, "p": 3, "gf": 19, "gc": 30, "pts": 6},
-   {"equipo": "Igualada D", "pj": 5, "g": 1, "e": 0, "p": 4, "gf": 13, "gc": 37, "pts": 3},
-   {"equipo": "Base Olerdola", "pj": 5, "g": 1, "e": 0, "p": 4, "gf": 5, "gc": 37, "pts": 3},
+   {"equipo": "Igualada D", "pj": 6, "g": 2, "e": 0, "p": 4, "gf": 17, "gc": 39, "pts": 6},
+   {"equipo": "Base Olerdola", "pj": 6, "g": 1, "e": 0, "p": 5, "gf": 7, "gc": 41, "pts": 3},
    {"equipo": "Riudebitlles", "pj": 5, "g": 0, "e": 0, "p": 5, "gf": 1, "gc": 41, "pts": 0},
    {"equipo": "Gelida", "pj": 5, "g": 0, "e": 0, "p": 5, "gf": 7, "gc": 51, "pts": 0}
   ]
